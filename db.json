@@ -68,12 +68,14 @@
   }              
 ],
  "listas": {
+   {
    "nombre": "Lista001.lst",
    "lista" : "art|tipo|encesta^pollo|carnicos|si^jabón|limpieza  |no^estropajo|limpieza  |no|si^yogures|lacteos|no^tarta|dulces|no^t|dulces|no^tarta|dulces|si^tarta2|dulce|no^tarta3|dulces|false"
- },
+   },
    {
     "nombre": "Lista002.lst",
     "lista": "item|type|incart^pollo|carnicos|si^jabón|limpieza  |no^estropajo|limpieza  |no|si^yogures|lacteos|no^tarta|dulces|no^t|dulces|no^tarta|dulces|si^tarta2|dulce|no^tarta3|dulces|false"
-  }
+   }
+}
  }
 }
